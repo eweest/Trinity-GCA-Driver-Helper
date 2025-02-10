@@ -1,6 +1,6 @@
 <h1 align="center">[RU] Trinity GCA Driver Helper</h1>
 
-Скрипт **[Moonloader](https://gtaforums.com/topic/890987-moonloader/)** для SAMP проекта TRINITY GTA, который расширяет и упрощает функционал работы по доставке товаров.
+Скрипт **[Moonloader](https://gtaforums.com/topic/890987-moonloader/)** для SAMP проекта TRINITY GTA, который расширяет и упрощает функционал работы по доставке товаров. В дополнении имеется финансовая статистика, информационное окно по загруженности и количеству товара в рабочем ТС.
 
 * Автор: **[eweest](https://vk.com/eweest)**<br>
 * Активация: **Автоматическая**<br>
